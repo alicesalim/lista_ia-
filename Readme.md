@@ -156,9 +156,7 @@ O modelo final está mais adequado para o problema real de detecção de fraudes
 
 ## 4. Links do Código
 
-Insira aqui o link do GitHub/Colab com acesso liberado:
-
-https://github.com/...
+git@github.com:alicesalim/lista_ia-.git
 
 #️⃣ Questão 2 — Algoritmos de Agrupamento
 ## 1. Introdução
@@ -280,4 +278,4 @@ Conclusão geral:
 A base não apresenta clusters naturais que correspondam à divisão fraude/não fraude. Isso reforça a necessidade de modelos supervisionados e de técnicas fortes de pré-processamento (principalmente balanceamento).
 
 ## 4. Links do Código
-https://github.com/...
+git@github.com:alicesalim/lista_ia-.git
